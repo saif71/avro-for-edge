@@ -15,7 +15,7 @@ for Microsoft Edge works with any chromium based browser that supports installin
 
   
 
-![enter image description here](https://img.shields.io/github/repo-size/saif71/avro-for-chromium.svg)  ![](https://img.shields.io/maintenance/yes/2019.svg)  ![](https://img.shields.io/website/https/avro.im.svg?label=avro.im)
+![](https://img.shields.io/github/repo-size/saif71/avro-for-chromium.svg) 
 
   
 
