@@ -96,4 +96,4 @@ Avro (অভ্র) for Microsoft Edge is licensed under Mozilla Public License 
 
   
 
-[https://github.com/saif71/avro-for-chromium/](https://github.com/saif71/avro-for-edge/)
+[https://github.com/saif71/avro-for-edge/](https://github.com/saif71/avro-for-edge/)
